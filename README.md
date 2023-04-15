@@ -6,13 +6,8 @@
 
 Languages and tools !
 <hr>
+![image](https://user-images.githubusercontent.com/111431424/232252815-d2df983a-0a2d-4a26-b9b8-04bed7211619.png )
 
-<img src="./nodejs-ar21.png"  width="100px"  > 
-   <img src="./1_y6C4nSvy2Woe0m7bWEn4BA.png" width="100px">
-   <img src="./javascript-logo.png" width="100px">
-   <img src="./w3_css-ar21.png" width="100px">
-   <img src="./w3_html5-ar21.png" width="100px">
-  
 <hr>
 
 
