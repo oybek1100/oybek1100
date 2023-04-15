@@ -1,4 +1,8 @@
 ### Hello everybody 👋
+I am a Full-Stack developer
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=nirooo+dev)](https://git.io/typing-svg)
+
 
 Languages and tools !
 <hr>
