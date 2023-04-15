@@ -6,7 +6,7 @@
 
 Languages and tools !
 <hr>
-![image](https://user-images.githubusercontent.com/111431424/232252846-689dd3f4-a1fc-41fe-ba04-14dce0c4ec10.png)
+
 
 
 
