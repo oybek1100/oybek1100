@@ -3,7 +3,7 @@
 Contact with me!
 <hr>
 
- <i class="fa-brands fa-instagram"></i>
+
 
 
 <!--
