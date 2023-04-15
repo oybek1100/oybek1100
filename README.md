@@ -6,7 +6,8 @@
 
 Languages and tools !
 <hr>
-![image](https://user-images.githubusercontent.com/111431424/232252815-d2df983a-0a2d-4a26-b9b8-04bed7211619.png )
+![image](https://user-images.githubusercontent.com/111431424/232252828-a1784e8d-f566-4bd5-8d72-1e3fe71b3187.png)
+
 
 <hr>
 
