@@ -6,16 +6,10 @@
 
 Languages and tools !
 <hr>
-
-
-
-
+NODE JS , JS , HTML5 , CSS3 , REACT , BOOTSRTAP.
 <hr>
 
-Look at the snake
-<br>
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
+
 
 <!--
 **oybek1100/oybek1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
