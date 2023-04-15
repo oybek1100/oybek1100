@@ -6,11 +6,14 @@
 
 Languages and tools !
 <hr>
- 
 
-
-
-
+<img src="./nodejs-ar21.png"  width="100px"  > 
+   <img src="./1_y6C4nSvy2Woe0m7bWEn4BA.png" width="100px">
+   <img src="./javascript-logo.png" width="100px">
+   <img src="./w3_css-ar21.png" width="100px">
+   <img src="./w3_html5-ar21.png" width="100px">
+  
+<hr>
 
 
 <!--
