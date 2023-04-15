@@ -1,6 +1,7 @@
 ### Hello everybody 👋
 
-Contact with me 
+Contact with me!
+<hr>
 
 
 
