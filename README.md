@@ -1,9 +1,8 @@
 ### Hello everybody 👋
 
-Contact with me!
+Languages and tools !
 <hr>
-
-![image](https://user-images.githubusercontent.com/111431424/232251676-cae7786b-f2db-4d6a-982b-316e50c3a316.png)
+ 
 
 
 
