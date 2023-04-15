@@ -12,7 +12,9 @@ Languages and tools !
 
 <hr>
 
-
+Activity!
+<br>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **oybek1100/oybek1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
