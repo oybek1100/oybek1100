@@ -42,7 +42,7 @@
 
 
 <details>
- <summary><h3>👨‍💻 nirooo__</h3></summary>
+ <summary><h3>👨‍💻 About ME</h3></summary>
   
 Hello everyone, my name is Aybek, I'm 18 years old, it's been 1 year since I started programming, I'm currently a student at Astrum IT Academy, and my future plans are to become a senior Back_End programmer.
 
