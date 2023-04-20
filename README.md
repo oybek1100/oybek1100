@@ -6,7 +6,15 @@
 
 Languages and tools !
 <hr>
-NODE JS , JS , HTML5 , CSS3 , REACT , BOOTSRTAP.
+### Connect with me:
+
+
+
+
+[<img align="left" alt="nirooo__| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+
+
+<br />
 <hr>
 
 
