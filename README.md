@@ -1,7 +1,8 @@
 
 🏄‍♂️ Oybek X
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HELLO+I+AM+FULLSTACK+DEVELOPER!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78C6B&lines=Loading+Backend+Wizard...;Level+Up+in+Django+%26+PostgreSQL;Debugging+One+Bug+at+a+Time!)](https://git.io/typing-svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oybek1100&hide=contribs,prs)
 
