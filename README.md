@@ -23,6 +23,7 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekXoshimboyev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
