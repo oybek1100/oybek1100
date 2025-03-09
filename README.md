@@ -1,5 +1,5 @@
 
-🏄‍♂️ OYBEK XOSHIMBOYEV
+🏄‍♂️ Oybek X
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HELLO+I+AM+FULLSTACK+DEVELOPER!)](https://git.io/typing-svg)
 
@@ -42,7 +42,7 @@
 <details>
  <summary><h3>👨‍💻 About ME</h3></summary>
   
-Hello everyone, my name is Oybek, I'm 18 years old, it's been 1 year since I started programming, I'm currently a student at Astrum IT Academy, and my future plans are to become a senior Back-End programmer.
+💻 Backend Developer | Python 🐍 | Django | PostgreSQL | Always optimizing code & performance!
 
 <hr>
 
