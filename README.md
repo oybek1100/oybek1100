@@ -1,4 +1,4 @@
-## 🏄‍♂️ Oybek Xoshimboyev  
+## 🏄‍♂️ Oybek X
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78C6B&lines=Loading+Backend+Wizard...;Level+Up+in+Django+%26+PostgreSQL;Debugging+One+Bug+at+a+Time!)](https://git.io/typing-svg)
 
@@ -53,7 +53,8 @@
 
 ---
 
-![snake gif](https://github.com/oybek1100/oybek1100/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/OybekXoshimboyev/OybekXoshimboyev/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **oybek1100/oybek1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
