@@ -69,7 +69,8 @@
 
 
 
-![GitHub Snake](./dist/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/oybek1100/main/dist/github-contribution-grid-snake.svg)
+
 
 
 
