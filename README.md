@@ -25,16 +25,22 @@
 ### 🚀 Connect with Me:
 
 <p align="left">
-    <a href="https://www.instagram.com/in/niroxp" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-    </a>
-    <a href="https://t.me/vrkh13" target="_blank">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram" />
-    </a>
-    <a href="mailto:oybek20051113@gmail.com">
-        <img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-    </a>
+  <!-- Instagram Badge -->
+  <a href="https://www.instagram.com/niroxp" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Telegram Badge -->
+  <a href="https://t.me/vrkh13" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram&logoColor=white" />
+  </a>
+
+  <!-- Gmail Badge -->
+  <a href="mailto:oybek20051113@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
