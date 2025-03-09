@@ -1,71 +1,60 @@
-
-🏄‍♂️ Oybek X
+## 🏄‍♂️ Oybek Xoshimboyev  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78C6B&lines=Loading+Backend+Wizard...;Level+Up+in+Django+%26+PostgreSQL;Debugging+One+Bug+at+a+Time!)](https://git.io/typing-svg)
 
+![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=oybek1100&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oybek1100&hide=contribs,prs)
+---
 
+### 🛠️ Languages & Tools:
 
+<p align="left">
+    <img alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img alt="GitHub" width="40px" style="padding-right:10px; background-color: white; border-radius: 50%;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+    <img alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</p>
 
-### 🧰 Languages and Tools:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oybek1100&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px; background-color: white; border-radius: 50%;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+### 🚀 Connect with Me:
 
+<p align="left">
+    <a href="https://www.instagram.com/in/niroxp" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+    </a>
+    <a href="https://t.me/vrkh13" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Chat-blue?logo=telegram" />
+    </a>
+    <a href="mailto:oybek20051113@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+    </a>
+</p>
 
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekXoshimboyev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-<hr>
-
-
-
-
-
-
-
-
-
+---
 
 <details>
- <summary><h3>👨‍💻 About ME</h3></summary>
-  
+ <summary><h3>👨‍💻 About Me</h3></summary>
+
 💻 Backend Developer | Python 🐍 | Django | PostgreSQL | Always optimizing code & performance!
 
-<hr>
+📌 Passionate about clean code, database optimization, and scalable backend solutions.
 
+🎯 Currently improving my **PostgreSQL skills** and working on advanced **Django projects**.
 
+🧩 Love solving algorithmic challenges and debugging complex backend issues.
 
+</details>
 
+---
+
+![snake gif](https://github.com/oybek1100/oybek1100/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **oybek1100/oybek1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
