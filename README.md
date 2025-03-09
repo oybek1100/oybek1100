@@ -59,7 +59,12 @@
 
 ---
 
-![snake gif](https://github.com/OybekXoshimboyev/OybekXoshimboyev/blob/output/github-contribution-grid-snake.svg)
+[![Motivatsiya](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
+![](https://komarev.com/ghpvc/?username=USERNAME&color=blue)
+
 
 
 <!--
