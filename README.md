@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78C6B&lines=Loading+Backend+Wizard...;Level+Up+in+Django+%26+PostgreSQL;Debugging+One+Bug+at+a+Time!)](https://git.io/typing-svg)
 
-![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark)
+![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=oybek100&show_icons=true&theme=dark)
+
 
 
 ---
