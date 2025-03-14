@@ -67,7 +67,8 @@
 ![snake gif](https://github.com/oybek1100/oybek1100/blob/output/github-contribution-grid-snake.gif)
 
 
-![](https://komarev.com/ghpvc/?oybek1100=oybek1100&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=oybek1100&color=blue)
+
 
 
 
